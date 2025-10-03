@@ -1,6 +1,0 @@
-cd /Users/emiliano/Desktop/Git_HUB/git_netaudio && git fetch origin && git status
-
-
-
-
-cd /Users/emiliano/Desktop/Git_HUB/git_netaudio && git add . && git commit -m "aggiunti nuovi sample" && git push origin main
