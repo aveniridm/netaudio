@@ -1,0 +1,10 @@
+cd /Users/emiliano/Desktop/git_netaudio
+git fetch origin
+git status
+
+
+
+
+git add .
+git commit -m "aggiunto nuovi sample"
+git push origin main
